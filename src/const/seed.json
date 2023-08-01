@@ -1,0 +1,862 @@
+[
+  {
+    "cv_template": [
+      {
+        "id": "80ecb430-b716-4661-86a7-a520c1f064c2",
+        "name": "Professional",
+        "content": "A well-designed CV template",
+        "created_at": "2023-08-01T13:07:53.942Z",
+        "updated_at": "2023-08-01T11:16:42.669Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "4120d374-c1d6-4eec-8135-67733669e992",
+        "name": "Creative",
+        "content": "Showcase your skills and experience",
+        "created_at": "2023-08-01T04:09:15.440Z",
+        "updated_at": "2023-08-01T15:24:09.281Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "41e427f6-8d8e-4d52-8da8-a7c37fce6b9e",
+        "name": "Modern",
+        "content": "Stand out from the crowd",
+        "created_at": "2023-08-01T12:56:16.951Z",
+        "updated_at": "2023-08-01T15:26:13.470Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "b0cfd232-1a62-47ef-9dab-0d1018b25eb1",
+        "name": "Minimalist",
+        "content": "Impress potential employers",
+        "created_at": "2023-07-31T20:57:37.248Z",
+        "updated_at": "2023-07-31T20:28:48.244Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "11639872-6083-46c9-bf9b-0a944b8bf3b8",
+        "name": "Elegant",
+        "content": "Easy to customize and personalize",
+        "created_at": "2023-08-01T13:14:49.769Z",
+        "updated_at": "2023-08-01T17:46:18.315Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "935b7b03-b442-4395-a6e4-37196ac725b4",
+        "content": "Experienced software engineer with a passion for problem-solving",
+        "created_at": "2023-08-01T18:21:09.957Z",
+        "updated_at": "2023-08-01T00:30:51.232Z",
+        "template_id": "80ecb430-b716-4661-86a7-a520c1f064c2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5b30a27c-f44f-4206-86b3-dc4cdc2c22f1",
+        "content": "Dedicated marketing professional with a track record of successful campaigns",
+        "created_at": "2023-08-01T16:13:34.474Z",
+        "updated_at": "2023-08-01T00:25:23.496Z",
+        "template_id": "b0cfd232-1a62-47ef-9dab-0d1018b25eb1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "65a12daf-4ce4-4cca-9414-804151a53d1a",
+        "content": "Highly skilled graphic designer with an eye for detail",
+        "created_at": "2023-07-31T22:02:56.199Z",
+        "updated_at": "2023-08-01T13:10:18.170Z",
+        "template_id": "b0cfd232-1a62-47ef-9dab-0d1018b25eb1",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7a980266-e536-48d0-b23e-b2e515fc0aa2",
+        "content": "Motivated sales executive with a proven ability to exceed targets",
+        "created_at": "2023-08-01T19:30:45.853Z",
+        "updated_at": "2023-08-01T12:16:17.720Z",
+        "template_id": "80ecb430-b716-4661-86a7-a520c1f064c2",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "d6e416d9-2ae6-4333-a766-611e7499c7d4",
+        "content": "Talented writer with a knack for storytelling",
+        "created_at": "2023-08-01T03:59:15.276Z",
+        "updated_at": "2023-08-01T12:38:17.670Z",
+        "template_id": "11639872-6083-46c9-bf9b-0a944b8bf3b8",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "74b30d17-29f3-48d6-b49d-1c78bb6ed485",
+        "name": "Professional",
+        "content": "A well-structured CV template",
+        "created_at": "2023-08-01T13:39:11.184Z",
+        "updated_at": "2023-08-01T19:02:35.510Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "dad13f60-5941-4e1d-9813-73a5885d6ee3",
+        "name": "Creative",
+        "content": "A visually appealing CV template",
+        "created_at": "2023-08-01T01:30:52.816Z",
+        "updated_at": "2023-07-31T23:21:50.990Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "a24bbc3d-145e-4449-99d4-83c1e786ee95",
+        "name": "Modern",
+        "content": "A unique and stylish CV template",
+        "created_at": "2023-08-01T07:08:55.045Z",
+        "updated_at": "2023-07-31T23:48:39.471Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "39508bfb-611a-47f6-8703-ccb5d91d5508",
+        "name": "Minimalist",
+        "content": "A clean and professional CV template",
+        "created_at": "2023-08-01T08:54:57.210Z",
+        "updated_at": "2023-08-01T18:32:19.315Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "d06e6412-ba52-4631-b261-db7f378cfaad",
+        "name": "Elegant",
+        "content": "A modern and eye-catching CV template",
+        "created_at": "2023-08-01T04:14:02.154Z",
+        "updated_at": "2023-08-01T16:29:44.289Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "6524117d-6e60-4265-af70-c645b0f68cfd",
+        "content": "A comprehensive CV showcasing skills and experience",
+        "created_at": "2023-08-01T17:29:59.139Z",
+        "updated_at": "2023-08-01T02:37:05.967Z",
+        "template_id": "74b30d17-29f3-48d6-b49d-1c78bb6ed485",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "fb9930ed-4b58-45ef-ae29-c47287a0b2a2",
+        "content": "An impressive CV highlighting achievements and qualifications",
+        "created_at": "2023-08-01T14:40:17.325Z",
+        "updated_at": "2023-08-01T04:54:07.823Z",
+        "template_id": "74b30d17-29f3-48d6-b49d-1c78bb6ed485",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6f3b4fa9-bc1d-4b97-9967-af194956cfa1",
+        "content": "A tailored CV for specific job applications",
+        "created_at": "2023-07-31T22:12:46.981Z",
+        "updated_at": "2023-07-31T21:42:40.000Z",
+        "template_id": "dad13f60-5941-4e1d-9813-73a5885d6ee3",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0a898620-1bec-415d-bdd0-eae1f6951c12",
+        "content": "A concise CV focusing on key strengths and accomplishments",
+        "created_at": "2023-08-01T05:28:09.913Z",
+        "updated_at": "2023-08-01T08:29:20.740Z",
+        "template_id": "a24bbc3d-145e-4449-99d4-83c1e786ee95",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "a1afd4c3-07e5-45ed-b8e7-0c1ad6f8bb1a",
+        "content": "A dynamic CV demonstrating versatility and expertise",
+        "created_at": "2023-07-31T20:10:03.385Z",
+        "updated_at": "2023-08-01T13:56:00.816Z",
+        "template_id": "dad13f60-5941-4e1d-9813-73a5885d6ee3",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "68667535-ed71-4bb3-9e33-b6ba4a57714e",
+        "name": "Professional",
+        "content": "A well-designed CV template",
+        "created_at": "2023-08-01T17:59:33.608Z",
+        "updated_at": "2023-08-01T18:57:52.269Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "14b54efb-a24c-428c-81da-e42f20f54fc7",
+        "name": "Creative",
+        "content": "A visually appealing CV template",
+        "created_at": "2023-08-01T00:05:46.559Z",
+        "updated_at": "2023-08-01T01:57:03.899Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "1e2d732b-d366-48ef-bc6f-ccb3c7b6d9a7",
+        "name": "Modern",
+        "content": "A clean and professional CV template",
+        "created_at": "2023-08-01T18:17:16.158Z",
+        "updated_at": "2023-08-01T14:22:26.038Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "6f5e820c-dd45-46a4-8d7b-d48eb877326c",
+        "name": "Minimalist",
+        "content": "A modern and stylish CV template",
+        "created_at": "2023-08-01T15:53:15.642Z",
+        "updated_at": "2023-08-01T09:58:48.815Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "59fc708c-e35c-414f-805a-ed5b3be3ba63",
+        "name": "Elegant",
+        "content": "A minimalist and simple CV template",
+        "created_at": "2023-08-01T12:57:07.842Z",
+        "updated_at": "2023-08-01T03:07:41.344Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "1c1ab663-e97d-4f00-838f-8ab6ca0986b8",
+        "content": "A comprehensive CV showcasing skills and experience",
+        "created_at": "2023-08-01T10:16:45.077Z",
+        "updated_at": "2023-08-01T19:01:02.439Z",
+        "template_id": "6f5e820c-dd45-46a4-8d7b-d48eb877326c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "acb1af54-2e8a-477d-8240-198ef637b6bb",
+        "content": "An impressive CV highlighting achievements and qualifications",
+        "created_at": "2023-08-01T17:17:57.743Z",
+        "updated_at": "2023-08-01T14:21:26.294Z",
+        "template_id": "14b54efb-a24c-428c-81da-e42f20f54fc7",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7539cc22-8cb7-4f16-bdf8-1b861a1f6c8d",
+        "content": "A well-structured CV demonstrating expertise and capabilities",
+        "created_at": "2023-07-31T21:41:02.737Z",
+        "updated_at": "2023-08-01T13:02:32.529Z",
+        "template_id": "68667535-ed71-4bb3-9e33-b6ba4a57714e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "7854e1e4-526e-41a4-a329-67812cb8c66e",
+        "content": "A tailored CV emphasizing relevant skills and accomplishments",
+        "created_at": "2023-08-01T05:32:50.506Z",
+        "updated_at": "2023-08-01T09:56:06.002Z",
+        "template_id": "68667535-ed71-4bb3-9e33-b6ba4a57714e",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "280ce9bc-b329-4710-b3a2-a5195c2fb381",
+        "content": "A professional CV presenting a strong professional profile",
+        "created_at": "2023-08-01T18:49:26.746Z",
+        "updated_at": "2023-07-31T21:16:48.488Z",
+        "template_id": "14b54efb-a24c-428c-81da-e42f20f54fc7",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "83f7a941-4920-4757-b28b-f01e39fb1993",
+        "name": "Professional",
+        "content": "A well-designed CV template",
+        "created_at": "2023-07-31T23:10:33.978Z",
+        "updated_at": "2023-08-01T17:36:54.613Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "1d6abb1b-a15d-4ae9-aa28-5378dd0b9991",
+        "name": "Creative",
+        "content": "Showcase your skills and experience",
+        "created_at": "2023-08-01T19:08:03.118Z",
+        "updated_at": "2023-08-01T01:11:09.260Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "28aef5da-b8ba-4ab1-9000-81d96e24e1ca",
+        "name": "Modern",
+        "content": "Stand out from the crowd",
+        "created_at": "2023-08-01T00:23:37.392Z",
+        "updated_at": "2023-08-01T06:18:56.516Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "da0d0882-c63b-4777-bee2-0bd86e520e3f",
+        "name": "Minimalist",
+        "content": "Impress potential employers",
+        "created_at": "2023-07-31T20:35:06.524Z",
+        "updated_at": "2023-08-01T17:59:45.373Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "c4662817-1438-4975-b65b-f96bccbaa8ba",
+        "name": "Elegant",
+        "content": "Easy to customize and personalize",
+        "created_at": "2023-08-01T05:09:35.892Z",
+        "updated_at": "2023-08-01T01:26:04.636Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "dc4056a2-81d8-41ed-ab5d-f0a01959fa12",
+        "content": "Experienced software engineer with a passion for problem-solving",
+        "created_at": "2023-08-01T03:15:47.145Z",
+        "updated_at": "2023-08-01T09:23:30.975Z",
+        "template_id": "da0d0882-c63b-4777-bee2-0bd86e520e3f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "34dd5214-6bf1-4e90-96ca-6d51cf025b99",
+        "content": "Dedicated marketing professional with a track record of successful campaigns",
+        "created_at": "2023-08-01T16:17:56.857Z",
+        "updated_at": "2023-08-01T00:37:07.394Z",
+        "template_id": "c4662817-1438-4975-b65b-f96bccbaa8ba",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f2cdc772-0ed1-4fad-aa73-d0614d02859f",
+        "content": "Results-driven sales executive with a proven ability to exceed targets",
+        "created_at": "2023-08-01T15:17:49.565Z",
+        "updated_at": "2023-08-01T00:29:37.787Z",
+        "template_id": "83f7a941-4920-4757-b28b-f01e39fb1993",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3a023c4a-e9eb-4c8f-b267-ff39263ee375",
+        "content": "Detail-oriented project manager with strong leadership skills",
+        "created_at": "2023-07-31T23:49:21.915Z",
+        "updated_at": "2023-08-01T11:19:43.785Z",
+        "template_id": "83f7a941-4920-4757-b28b-f01e39fb1993",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "9f278eda-ba19-4dc8-9bc5-94702316a662",
+        "content": "Creative graphic designer with a keen eye for aesthetics",
+        "created_at": "2023-08-01T16:53:57.214Z",
+        "updated_at": "2023-07-31T23:27:21.359Z",
+        "template_id": "da0d0882-c63b-4777-bee2-0bd86e520e3f",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "b920ad48-70dd-4914-879e-e22baf8160ca",
+        "name": "Professional",
+        "content": "A well-designed CV template",
+        "created_at": "2023-08-01T08:54:51.754Z",
+        "updated_at": "2023-08-01T14:53:53.143Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "5cc6e76f-04b6-4373-8b5e-8d35767c33ba",
+        "name": "Creative",
+        "content": "Showcase your skills and experience",
+        "created_at": "2023-07-31T23:13:32.818Z",
+        "updated_at": "2023-08-01T05:42:06.592Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "36752729-68b0-4c14-b0b8-44d950c50d84",
+        "name": "Modern",
+        "content": "Stand out from the crowd",
+        "created_at": "2023-08-01T01:13:02.347Z",
+        "updated_at": "2023-08-01T15:34:01.686Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "b5dcd644-804e-41c0-b2e6-ff9bccfa74bf",
+        "name": "Minimalist",
+        "content": "Impress potential employers",
+        "created_at": "2023-08-01T02:51:48.597Z",
+        "updated_at": "2023-08-01T06:20:48.755Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "c2fa37f0-0489-4c53-846a-2444863c6bdc",
+        "name": "Elegant",
+        "content": "Easy to customize and personalize",
+        "created_at": "2023-08-01T06:34:17.257Z",
+        "updated_at": "2023-08-01T17:05:14.340Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "c45255da-5d24-4340-ac96-fc0630e693d5",
+        "content": "Experienced software engineer with a passion for problem-solving",
+        "created_at": "2023-08-01T11:10:32.778Z",
+        "updated_at": "2023-07-31T22:53:08.390Z",
+        "template_id": "c2fa37f0-0489-4c53-846a-2444863c6bdc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "694b19e5-dba9-4212-b8f0-4898a3e3167f",
+        "content": "Dedicated marketing professional with a track record of successful campaigns",
+        "created_at": "2023-08-01T06:41:46.253Z",
+        "updated_at": "2023-08-01T17:50:04.279Z",
+        "template_id": "b920ad48-70dd-4914-879e-e22baf8160ca",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "c2e4f63a-e7d5-4069-b9b5-1fd492bc610d",
+        "content": "Highly skilled graphic designer with a keen eye for detail",
+        "created_at": "2023-08-01T19:37:51.010Z",
+        "updated_at": "2023-07-31T20:53:31.849Z",
+        "template_id": "36752729-68b0-4c14-b0b8-44d950c50d84",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "bad888c3-9f95-4119-89de-427fe4772f4d",
+        "content": "Motivated sales executive with a proven ability to exceed targets",
+        "created_at": "2023-08-01T17:09:43.351Z",
+        "updated_at": "2023-08-01T04:08:22.409Z",
+        "template_id": "c2fa37f0-0489-4c53-846a-2444863c6bdc",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "2d2a0b79-6f8a-4d0a-a536-4ee10c2e0507",
+        "content": "Talented writer with a knack for storytelling",
+        "created_at": "2023-08-01T11:22:52.301Z",
+        "updated_at": "2023-08-01T12:50:10.607Z",
+        "template_id": "b920ad48-70dd-4914-879e-e22baf8160ca",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "8f2538d9-59c1-42b9-9a0c-6cec66806362",
+        "name": "Professional",
+        "content": "A well-designed CV template",
+        "created_at": "2023-08-01T16:29:59.336Z",
+        "updated_at": "2023-08-01T18:38:47.197Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "69f5633a-a3d4-4224-972f-f0a161fb0ff4",
+        "name": "Creative",
+        "content": "Stand out from the crowd with this template",
+        "created_at": "2023-08-01T02:03:29.279Z",
+        "updated_at": "2023-07-31T20:15:59.787Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "514d7f96-a7fa-46f9-8cc9-010089364e0f",
+        "name": "Modern",
+        "content": "Highlight your skills and experience",
+        "created_at": "2023-08-01T13:06:42.944Z",
+        "updated_at": "2023-08-01T03:21:16.396Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "aaf71292-4a04-421f-ad6f-b5198f4d3e00",
+        "name": "Minimalist",
+        "content": "Perfect for any industry",
+        "created_at": "2023-08-01T12:44:01.736Z",
+        "updated_at": "2023-08-01T11:32:11.693Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "efb60f89-b4a6-4088-bec7-e44b2ee71350",
+        "name": "Elegant",
+        "content": "Impress potential employers",
+        "created_at": "2023-08-01T08:22:26.228Z",
+        "updated_at": "2023-08-01T06:28:36.152Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "ff34fa63-d98a-4ae0-928f-6674e49a3ce1",
+        "content": "A summary of my qualifications and experience",
+        "created_at": "2023-08-01T19:17:59.501Z",
+        "updated_at": "2023-08-01T00:22:35.075Z",
+        "template_id": "69f5633a-a3d4-4224-972f-f0a161fb0ff4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ad3c1b44-de73-4fa6-b47d-0a45b95d38fe",
+        "content": "Detailed information about my education and work history",
+        "created_at": "2023-08-01T19:12:12.073Z",
+        "updated_at": "2023-08-01T00:03:23.136Z",
+        "template_id": "8f2538d9-59c1-42b9-9a0c-6cec66806362",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "3f08715d-6b66-44bb-a6ac-680ba121a7cc",
+        "content": "Skills and achievements showcased",
+        "created_at": "2023-08-01T00:00:36.215Z",
+        "updated_at": "2023-07-31T22:38:08.184Z",
+        "template_id": "69f5633a-a3d4-4224-972f-f0a161fb0ff4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "efa73010-dcbc-4c1d-abd6-3dfb2b261fda",
+        "content": "References available upon request",
+        "created_at": "2023-08-01T18:35:12.340Z",
+        "updated_at": "2023-08-01T11:12:50.283Z",
+        "template_id": "69f5633a-a3d4-4224-972f-f0a161fb0ff4",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "5a304339-4e06-4130-b913-8b85d88a0667",
+        "content": "Contact information provided",
+        "created_at": "2023-08-01T08:44:16.708Z",
+        "updated_at": "2023-08-01T09:58:24.245Z",
+        "template_id": "8f2538d9-59c1-42b9-9a0c-6cec66806362",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "d9817bbd-d9d1-4136-bec7-f12d7277ea7f",
+        "name": "Professional",
+        "content": "A well-designed CV template",
+        "created_at": "2023-07-31T20:13:55.895Z",
+        "updated_at": "2023-08-01T11:13:25.191Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "d7ca836d-203f-4904-87bd-6d8e3ec07f98",
+        "name": "Creative",
+        "content": "Highlighting your skills and experience",
+        "created_at": "2023-08-01T09:29:53.472Z",
+        "updated_at": "2023-08-01T17:34:52.807Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "d5962be4-9019-4a5c-809f-1834bf710678",
+        "name": "Modern",
+        "content": "Perfect for any industry",
+        "created_at": "2023-08-01T11:22:46.264Z",
+        "updated_at": "2023-07-31T20:53:31.838Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "0d60c2d2-0e24-4284-a469-a06495570003",
+        "name": "Minimalist",
+        "content": "Easy to customize",
+        "created_at": "2023-08-01T04:33:59.601Z",
+        "updated_at": "2023-08-01T18:05:07.409Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "66b4634a-ccd8-4347-b926-23e6e6c8ff0f",
+        "name": "Elegant",
+        "content": "Impress recruiters with a professional layout",
+        "created_at": "2023-08-01T02:00:06.691Z",
+        "updated_at": "2023-08-01T04:22:16.912Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "099264de-6ef3-4e49-aecf-68ffb407677e",
+        "content": "A comprehensive CV showcasing your achievements",
+        "created_at": "2023-08-01T00:09:43.433Z",
+        "updated_at": "2023-08-01T09:14:29.759Z",
+        "template_id": "d9817bbd-d9d1-4136-bec7-f12d7277ea7f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "4c8c3fae-1441-4d83-8b32-e9901ba30412",
+        "content": "Tailored to your specific career goals",
+        "created_at": "2023-08-01T11:44:23.733Z",
+        "updated_at": "2023-08-01T14:20:19.379Z",
+        "template_id": "66b4634a-ccd8-4347-b926-23e6e6c8ff0f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e4bf4507-5ece-4b69-8c24-408d7a9c28d2",
+        "content": "Highlighting your key strengths",
+        "created_at": "2023-08-01T14:08:22.246Z",
+        "updated_at": "2023-08-01T00:17:56.100Z",
+        "template_id": "d9817bbd-d9d1-4136-bec7-f12d7277ea7f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "96d20812-e651-4ea1-bcde-2b0afb9e3e51",
+        "content": "Demonstrating your expertise",
+        "created_at": "2023-08-01T19:12:40.606Z",
+        "updated_at": "2023-08-01T13:10:15.243Z",
+        "template_id": "d5962be4-9019-4a5c-809f-1834bf710678",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "93f77cc3-de02-4fdb-892f-efe5496c47c2",
+        "content": "Stand out from the competition with a compelling CV",
+        "created_at": "2023-08-01T11:11:52.566Z",
+        "updated_at": "2023-08-01T01:18:24.741Z",
+        "template_id": "0d60c2d2-0e24-4284-a469-a06495570003",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "5afe4ffb-7de1-4aae-91c1-a8917665811f",
+        "name": "Professional",
+        "content": "A well-designed CV template",
+        "created_at": "2023-08-01T12:08:04.948Z",
+        "updated_at": "2023-08-01T17:02:43.318Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "785e6c0a-8906-423c-aa45-0bf62a685dde",
+        "name": "Creative",
+        "content": "Showcase your skills and experience",
+        "created_at": "2023-08-01T09:47:19.314Z",
+        "updated_at": "2023-08-01T01:33:22.994Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "ae88bd9c-232e-440f-a59c-6719de279701",
+        "name": "Modern",
+        "content": "Stand out from the crowd",
+        "created_at": "2023-08-01T08:20:17.405Z",
+        "updated_at": "2023-08-01T12:05:18.712Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "48dab660-8b93-416e-a44d-c5eb13c3cc7c",
+        "name": "Minimalist",
+        "content": "Impress potential employers",
+        "created_at": "2023-08-01T11:34:51.187Z",
+        "updated_at": "2023-08-01T19:22:20.566Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "c8456ab0-577d-4b79-8167-e97c9233893f",
+        "name": "Elegant",
+        "content": "Easy to customize and personalize",
+        "created_at": "2023-08-01T16:24:00.537Z",
+        "updated_at": "2023-08-01T19:01:51.777Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "faed49a9-afca-42ea-ad7f-67e456909055",
+        "content": "Experienced software engineer with a passion for problem-solving",
+        "created_at": "2023-08-01T02:39:15.409Z",
+        "updated_at": "2023-08-01T08:35:22.992Z",
+        "template_id": "ae88bd9c-232e-440f-a59c-6719de279701",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "20d6cf2d-7ec0-4296-8ffa-1bceead36d04",
+        "content": "Dedicated marketing professional with a track record of successful campaigns",
+        "created_at": "2023-08-01T09:06:35.802Z",
+        "updated_at": "2023-08-01T02:43:34.612Z",
+        "template_id": "48dab660-8b93-416e-a44d-c5eb13c3cc7c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "511b00a6-853b-4901-9d77-22eabe510bf8",
+        "content": "Skilled graphic designer with an eye for detail",
+        "created_at": "2023-07-31T23:13:19.752Z",
+        "updated_at": "2023-07-31T21:31:32.133Z",
+        "template_id": "c8456ab0-577d-4b79-8167-e97c9233893f",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "08008bcf-2b17-4bf5-a794-2acd8cfd2931",
+        "content": "Motivated sales representative with excellent communication skills",
+        "created_at": "2023-08-01T02:31:47.342Z",
+        "updated_at": "2023-08-01T00:40:07.400Z",
+        "template_id": "48dab660-8b93-416e-a44d-c5eb13c3cc7c",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "f4f41fc9-a01d-4e38-ac57-26afc957515f",
+        "content": "Results-driven project manager with a proven ability to deliver on time and within budget",
+        "created_at": "2023-08-01T11:10:22.074Z",
+        "updated_at": "2023-08-01T12:50:58.889Z",
+        "template_id": "785e6c0a-8906-423c-aa45-0bf62a685dde",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "93438070-31f9-4b06-8e75-9c6db1728370",
+        "name": "Professional",
+        "content": "A well-designed CV template",
+        "created_at": "2023-08-01T09:05:34.536Z",
+        "updated_at": "2023-08-01T08:46:24.498Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "4471fb1c-1466-4147-b210-e6e275c0919a",
+        "name": "Creative",
+        "content": "A visually appealing CV template",
+        "created_at": "2023-08-01T00:31:11.780Z",
+        "updated_at": "2023-07-31T22:46:22.953Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "516ee5a3-9a46-4f13-9ab9-e9fae5abd365",
+        "name": "Modern",
+        "content": "A clean and professional CV template",
+        "created_at": "2023-08-01T19:27:49.034Z",
+        "updated_at": "2023-08-01T12:22:21.342Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "cb0de59c-ce86-4146-a99b-225f2507a410",
+        "name": "Minimalist",
+        "content": "A modern and stylish CV template",
+        "created_at": "2023-08-01T16:17:06.250Z",
+        "updated_at": "2023-08-01T15:56:01.481Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "5b23d5d6-592d-40f6-b29b-280775a9124f",
+        "name": "Elegant",
+        "content": "An elegant and minimalist CV template",
+        "created_at": "2023-08-01T00:55:02.668Z",
+        "updated_at": "2023-08-01T02:35:48.514Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "49ada9bf-743f-447e-b118-b41f70af7de8",
+        "content": "A comprehensive CV showcasing skills and experience",
+        "created_at": "2023-08-01T05:54:50.505Z",
+        "updated_at": "2023-08-01T16:27:16.163Z",
+        "template_id": "93438070-31f9-4b06-8e75-9c6db1728370",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "507a2331-f0ab-42c5-8cb5-0581c0064ada",
+        "content": "A tailored CV highlighting achievements and qualifications",
+        "created_at": "2023-08-01T00:07:23.328Z",
+        "updated_at": "2023-08-01T12:36:13.096Z",
+        "template_id": "4471fb1c-1466-4147-b210-e6e275c0919a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "e61664aa-9673-4866-b381-97e536ba3745",
+        "content": "A well-structured CV demonstrating expertise and capabilities",
+        "created_at": "2023-08-01T11:49:35.527Z",
+        "updated_at": "2023-08-01T16:10:33.157Z",
+        "template_id": "4471fb1c-1466-4147-b210-e6e275c0919a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "abef3eb7-f239-4e47-b221-bf41c5d5cb8a",
+        "content": "A professional CV presenting career history and accomplishments",
+        "created_at": "2023-08-01T12:04:58.969Z",
+        "updated_at": "2023-08-01T17:11:48.010Z",
+        "template_id": "4471fb1c-1466-4147-b210-e6e275c0919a",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "544f1082-b83d-449d-894c-69ec32924841",
+        "content": "A polished CV emphasizing strengths and potential",
+        "created_at": "2023-08-01T10:11:30.149Z",
+        "updated_at": "2023-08-01T18:23:59.194Z",
+        "template_id": "cb0de59c-ce86-4146-a99b-225f2507a410",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  },
+  {
+    "cv_template": [
+      {
+        "id": "fbd798f1-e0f3-4eff-8e56-972555a3f673",
+        "name": "Professional",
+        "content": "A well-structured CV template",
+        "created_at": "2023-08-01T13:20:09.644Z",
+        "updated_at": "2023-08-01T02:09:28.278Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "b787f689-c65a-4e4a-aca9-ada48fe4c407",
+        "name": "Creative",
+        "content": "A visually appealing CV template",
+        "created_at": "2023-08-01T02:51:54.907Z",
+        "updated_at": "2023-08-01T10:43:36.321Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "7d3a4d36-610f-4771-b11a-e739b62915be",
+        "name": "Modern",
+        "content": "A unique and stylish CV template",
+        "created_at": "2023-08-01T19:41:02.490Z",
+        "updated_at": "2023-08-01T15:29:40.569Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "c40ed198-d865-452c-8ff9-052e17b19159",
+        "name": "Minimalist",
+        "content": "A clean and professional CV template",
+        "created_at": "2023-08-01T17:48:04.298Z",
+        "updated_at": "2023-07-31T20:38:06.723Z",
+        "admin_id": "user_entity_pk"
+      },
+      {
+        "id": "6b8d671e-057d-417b-84d1-26717ff755dd",
+        "name": "Elegant",
+        "content": "A modern and eye-catching CV template",
+        "created_at": "2023-08-01T08:49:45.499Z",
+        "updated_at": "2023-08-01T08:51:31.782Z",
+        "admin_id": "user_entity_pk"
+      }
+    ],
+    "cv": [
+      {
+        "id": "11ef586c-0029-4eb1-90c6-01b08372c546",
+        "content": "A comprehensive CV showcasing skills and experience",
+        "created_at": "2023-08-01T00:41:55.767Z",
+        "updated_at": "2023-07-31T21:09:20.526Z",
+        "template_id": "fbd798f1-e0f3-4eff-8e56-972555a3f673",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "ed8bf484-cd57-41e7-a4f6-81e0546a2713",
+        "content": "An impressive CV highlighting achievements and qualifications",
+        "created_at": "2023-07-31T21:25:02.080Z",
+        "updated_at": "2023-08-01T13:34:29.492Z",
+        "template_id": "fbd798f1-e0f3-4eff-8e56-972555a3f673",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "1a326b5d-3801-4f3d-a53e-b6c65fc13b32",
+        "content": "A tailored CV for specific job applications",
+        "created_at": "2023-08-01T09:39:56.158Z",
+        "updated_at": "2023-08-01T15:03:14.309Z",
+        "template_id": "6b8d671e-057d-417b-84d1-26717ff755dd",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "0302972b-a468-46f2-b347-94267f173863",
+        "content": "A concise CV focusing on key strengths and accomplishments",
+        "created_at": "2023-08-01T05:10:53.225Z",
+        "updated_at": "2023-08-01T06:07:23.084Z",
+        "template_id": "fbd798f1-e0f3-4eff-8e56-972555a3f673",
+        "user_id": "user_entity_pk"
+      },
+      {
+        "id": "6a3aad77-e95c-4ad4-9319-d143121ec9f7",
+        "content": "A dynamic CV demonstrating versatility and expertise",
+        "created_at": "2023-08-01T17:30:01.223Z",
+        "updated_at": "2023-08-01T17:12:12.693Z",
+        "template_id": "b787f689-c65a-4e4a-aca9-ada48fe4c407",
+        "user_id": "user_entity_pk"
+      }
+    ]
+  }
+]
